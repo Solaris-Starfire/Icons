@@ -1,0 +1,61 @@
+name: Auto Sync Emby Proxy JSON
+
+on:
+  push:
+    paths:
+      - 'Emby/icons.json'  # 仅在源文件变动时触发
+  workflow_dispatch:               # 允许手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Generate Proxy JSON
+        run: |
+          python << END
+          import json
+          import os
+
+          source_path = 'Emby/icons.json'
+          target_path = 'Emby/iconsd.json'
+          proxy_prefix = 'https://ghfast.top/'
+
+          if not os.path.exists(source_path):
+              print(f"Error: {source_path} not found")
+              exit(1)
+
+          # 读取源文件
+          with open(source_path, 'r', encoding='utf-8') as f:
+              data = json.load(f)
+
+          # 遍历修改 icons 中的 url
+          if 'icons' in data:
+              for icon in data['icons']:
+                  original_url = icon.get('url', '')
+                  # 只有当 url 不以代理前缀开头时才添加，防止重复叠加
+                  if original_url and not original_url.startswith(proxy_prefix):
+                      icon['url'] = proxy_prefix + original_url
+
+          # 保存到目标文件
+          with open(target_path, 'w', encoding='utf-8') as f:
+              json.dump(data, f, indent=4, ensure_ascii=False)
+          
+          print("Successfully generated iconsd.json")
+          END
+
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-sync iconsd.json with proxy prefix"
+          file_pattern: 'Emby/iconsd.json'
