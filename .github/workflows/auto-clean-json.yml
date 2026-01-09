@@ -1,0 +1,41 @@
+name: Auto Clean Emby Icons JSON
+
+on:
+  push:
+    paths:
+      # === 修改点：监听路径改为 Emby/icons/ ===
+      - 'Emby/icons/*.png'
+  workflow_dispatch:
+
+jobs:
+  clean-json:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Sync Script
+        run: python .github/scripts/sync_json.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # === 修改点：检查和提交的路径改为 Emby/icons.json ===
+          if git diff --quiet Emby/icons.json; then
+            echo "JSON 文件没有变化"
+          else
+            echo "检测到 JSON 变化，提交更改..."
+            git add Emby/icons.json
+            git commit -m "Auto: Remove deleted icons from json"
+            git push
+          fi
