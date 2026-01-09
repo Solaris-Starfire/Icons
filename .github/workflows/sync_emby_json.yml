@@ -3,8 +3,8 @@ name: Auto Sync Emby Proxy JSON
 on:
   push:
     paths:
-      - 'Emby/icons.json'  # 仅在源文件变动时触发
-  workflow_dispatch:               # 允许手动触发
+      - 'Emby/icons.json'
+  workflow_dispatch:
 
 jobs:
   sync:
@@ -23,7 +23,7 @@ jobs:
 
       - name: Generate Proxy JSON
         run: |
-          python << END
+          python << 'EOF'
           import json
           import os
 
@@ -50,13 +50,12 @@ jobs:
           # 保存到目标文件
           with open(target_path, 'w', encoding='utf-8') as f:
               json.dump(data, f, indent=4, ensure_ascii=False)
-          
+
           print("Successfully generated iconsd.json")
-          END
+          EOF
 
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: auto-sync iconsd.json with proxy prefix"
           file_pattern: 'Emby/iconsd.json'
-
