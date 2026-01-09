@@ -1,278 +1,278 @@
 {
-  "name": "Starfire-Emby",
+  "name": "Emby",
   "description": "作者Starfire",
   "icons": [
     {
       "name": "1111",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/1111.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/1111.png"
     },
     {
       "name": "404",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/404.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/404.png"
     },
     {
       "name": "69Yun",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/69Yun.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/69Yun.png"
     },
     {
       "name": "69Yun1",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/69Yun1.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/69Yun1.png"
     },
     {
       "name": "69Yun2",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/69Yun2.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/69Yun2.png"
     },
     {
       "name": "69Yun3",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/69Yun3.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/69Yun3.png"
     },
     {
       "name": "AlphaTV",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/AlphaTV.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/AlphaTV.png"
     },
     {
       "name": "BingZhenXiGua",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/BingZhenXiGua.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/BingZhenXiGua.png"
     },
     {
       "name": "BingZhenXiGua1",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/Emby-icon/icon/BingZhenXiGua1.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/BingZhenXiGua1.png"
     },
     {
       "name": "CC",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/CC.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/CC.png"
     },
     {
       "name": "CC1",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/CC1.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/CC1.png"
     },
     {
       "name": "CC2",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/CC2.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/CC2.png"
     },
     {
       "name": "DaV",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/DaV.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/DaV.png"
     },
     {
       "name": "DouBon",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/DouBon.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/DouBon.png"
     },
     {
       "name": "FeiMiao",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/FeiMiao.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/FeiMiao.png"
     },
     {
       "name": "FeiYue",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/Emby-icon/icon/FeiYue.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/FeiYue.png"
     },
     {
       "name": "FeiYueCaiHong",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/Emby-icon/icon/FeiYueCaiHong.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/FeiYueCaiHong.png"
     },
     {
       "name": "FuFu",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/Emby-icon/icon/FuFu.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/FuFu.png"
     },
     {
       "name": "HOHAI",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/HOHAI.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/HOHAI.png"
     },
     {
       "name": "HuaLu",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/HuaLu.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/HuaLu.png"
     },
     {
       "name": "Iris",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/Iris.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/Iris.png"
     },
     {
       "name": "JianShouQing",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/JianShouQing.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/JianShouQing.png"
     },
     {
       "name": "JieShu",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/Emby-icon/icon/JieShu.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/JieShu.png"
     },
     {
       "name": "JieShuBlue",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/Emby-icon/icon/JieShuBlue.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/JieShuBlue.png"
     },
     {
       "name": "JingZheTou",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/JingZheTou.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/JingZheTou.png"
     },
     {
       "name": "JingZheYuan",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/JingZheYuan.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/JingZheYuan.png"
     },
     {
       "name": "KiKU",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/KiKU.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/KiKU.png"
     },
     {
       "name": "KIKU1",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/KIKU1.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/KIKU1.png"
     },
     {
       "name": "Levilde",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/Levilde.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/Levilde.png"
     },
     {
       "name": "Lily",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/Lily.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/Lily.png"
     },
     {
       "name": "Liminal",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/Liminal.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/Liminal.png"
     },
     {
       "name": "Liminal Lite",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/Liminal Lite.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/Liminal Lite.png"
     },
     {
       "name": "Liminal Pro",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/Liminal Pro.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/Liminal Pro.png"
     },
     {
       "name": "MoGu",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/MoGu.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/MoGu.png"
     },
     {
       "name": "MoYunGe",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/MoYunGe.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/MoYunGe.png"
     },
     {
       "name": "Msky",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/Msky.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/Msky.png"
     },
     {
       "name": "MTDB",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/MTDB.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/MTDB.png"
     },
     {
       "name": "Nanflix",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/Nanflix.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/Nanflix.png"
     },
     {
       "name": "NAYOVO",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/NAYOVO.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/NAYOVO.png"
     },
     {
       "name": "OkEmby",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/OkEmby.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/OkEmby.png"
     },
     {
       "name": "OMEGA",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/OMEGA.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/OMEGA.png"
     },
     {
       "name": "Onyra",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/Onyra.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/Onyra.png"
     },
     {
       "name": "PandaTV",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/PandaTV.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/PandaTV.png"
     },
     {
       "name": "PaoLu",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/PaoLu.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/PaoLu.png"
     },
     {
       "name": "PaulTou",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/PaulTou.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/PaulTou.png"
     },
     {
       "name": "PaulYuan",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/PaulYuan.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/PaulYuan.png"
     },
     {
       "name": "Peach",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/Peach.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/Peach.png"
     },
     {
       "name": "PiliPili",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/PiliPili.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/PiliPili.png"
     },
     {
       "name": "PiliPili1",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/PiliPili1.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/PiliPili1.png"
     },
     {
       "name": "SIESTA",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/SIESTA.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/SIESTA.png"
     },
     {
       "name": "SNTP",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/SNTP.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/SNTP.png"
     },
     {
       "name": "SNTP Lite",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/SNTP Lite.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/SNTP Lite.png"
     },
     {
       "name": "Stremio",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/Stremio.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/Stremio.png"
     },
     {
       "name": "TanHua",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/TanHua.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/TanHua.png"
     },
     {
       "name": "Terminus",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/Terminus.PNG"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/Terminus.PNG"
     },
     {
       "name": "UHD",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/UHD.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/UHD.png"
     },
     {
       "name": "Violet",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/Violet.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/Violet.png"
     },
     {
       "name": "WENJIAN",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/WENJIAN.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/WENJIAN.png"
     },
     {
       "name": "WENJIAN1",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/WENJIAN1.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/WENJIAN1.png"
     },
     {
       "name": "YeZiJin",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/YeZiJin.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/YeZiJin.png"
     },
     {
       "name": "YeZiLv",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/YeZiLv.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/YeZiLv.png"
     },
     {
       "name": "Yomo",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/Yomo.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/Yomo.png"
     },
     {
       "name": "Youno",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/Youno.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/Youno.png"
     },
     {
       "name": "YouQiBing",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/YouQiBing.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/YouQiBing.png"
     },
     {
       "name": "YueBing",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/YueBing.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/YueBing.png"
     },
     {
       "name": "YueBing1",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/YueBing1.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/YueBing1.png"
     },
     {
       "name": "YunHai-Emby",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/YunHai-Emby.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/YunHai-Emby.png"
     },
     {
       "name": "YunHai-Porn",
-      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/Emby-icon/icon/YunHai-Porn.png"
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/Emby/icons/YunHai-Porn.png"
     }
   ]
 }
