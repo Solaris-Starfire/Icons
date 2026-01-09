@@ -1,0 +1,86 @@
+{
+  "name": "APP",
+  "description": "作者:Starfire",
+  "icons": [
+    {
+      "name": "1.1.1.1Circle",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/1.1.1.1Circle.png"
+    },
+    {
+      "name": "1PasswordCircle",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/1PasswordCircle.png"
+    },
+    {
+      "name": "DiscordCircle",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/DiscordCircle.png"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/Facebook.png"
+    },
+    {
+      "name": "GoogleVoice",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/GoogleVoice.png"
+    },
+    {
+      "name": "iMe",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/iMe.png"
+    },
+    {
+      "name": "InstagramCircle",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/InstagramCircle.png"
+    },
+    {
+      "name": "Lingogram",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Myicon/main/App-icon/icon/Lingogram.png"
+    },
+    {
+      "name": "MessengerCircle",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/MessengerCircle.png"
+    },
+    {
+      "name": "MessengerKids",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/MessengerKids.png"
+    },
+    {
+      "name": "MessengerOpen",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/MessengerOpen.png"
+    },
+    {
+      "name": "NetflixCircle",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/NetflixCircle.png"
+    },
+    {
+      "name": "Nicegram",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/Nicegram.png"
+    },
+    {
+      "name": "PayPalCircle",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/PayPalCircle.png"
+    },
+    {
+      "name": "SnapchatCircle",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/SnapchatCircle.png"
+    },
+    {
+      "name": "Swiftgram",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/Swiftgram.png"
+    },
+    {
+      "name": "Talkatone",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/Talkatone.png"
+    },
+    {
+      "name": "TalkatoneCircle",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/TalkatoneCircle.png"
+    },
+    {
+      "name": "TikTokCircle",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/TikTokCircle.png"
+    },
+    {
+      "name": "Turrit",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire//Myicon/main/App-icon/icon/Turrit.png"
+    }
+  ]
+}
