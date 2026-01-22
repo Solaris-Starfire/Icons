@@ -3,6 +3,10 @@
   "description": "作者:Starfire",
   "icons": [
     {
+      "name": "Ayugram",
+      "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/APP/icons/Ayugram.png"
+    },
+    {
       "name": "Disney",
       "url": "https://raw.githubusercontent.com/Solaris-Starfire/Icons/main/APP/icons/Disney.png"
     },
